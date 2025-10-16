@@ -127,7 +127,7 @@ $ ./sem.o
 
 $ ipcs
 
-<img width="692" height="144" alt="image" src="https://github.com/user-attachments/assets/ad20d2a5-248f-4826-aa37-73042f5530f3" />
+<img width="659" height="183" alt="image" src="https://github.com/user-attachments/assets/678562b0-31c9-40aa-9813-73f49ab66b24" />
 
 
 # RESULT:
